@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://joehua87.github.io/build-an-mvp-with-js/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Feb 2017 10:18:52 +0700</lastBuildDate>
+    <atom:link href="https://joehua87.github.io/build-an-mvp-with-js/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tool List</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/tools/tool-list/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:52 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/tools/tool-list/</guid>
+      <description>
+
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+
+&lt;h2 id=&#34;atom&#34;&gt;Atom&lt;/h2&gt;
+
+&lt;h2 id=&#34;nuclide&#34;&gt;Nuclide&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eslint</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/tools/eslint/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:52 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/tools/eslint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Type</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/tools/flow-type/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:52 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/tools/flow-type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start kit</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/tools/start-kit/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:52 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/tools/start-kit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back end</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/back-end/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/back-end/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deployment</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/deployment/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/deployment/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Front end</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/front-end/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/front-end/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/introduction/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/introduction/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Overview</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/project-overview/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/project-overview/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/reference/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/reference/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/tools/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/tools/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

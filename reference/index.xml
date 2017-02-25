@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>References on My New Hugo Site</title>
+    <link>https://joehua87.github.io/build-an-mvp-with-js/reference/index.xml</link>
+    <description>Recent content in References on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Feb 2017 10:18:40 +0700</lastBuildDate>
+    <atom:link href="https://joehua87.github.io/build-an-mvp-with-js/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reference</title>
+      <link>https://joehua87.github.io/build-an-mvp-with-js/reference/</link>
+      <pubDate>Sat, 25 Feb 2017 10:18:40 +0700</pubDate>
+      
+      <guid>https://joehua87.github.io/build-an-mvp-with-js/reference/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
