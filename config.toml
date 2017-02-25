@@ -1,0 +1,15 @@
+languageCode = "en-us"
+title = "My New Hugo Site"
+baseurl = "https://joehua87.github.io/build-an-mvp-with-js"
+theme = "hugo-theme-learn"
+publishDir = "docs"
+[params]
+  menu = [
+    "introduction",
+    "project-overview",
+    "tools",
+    "back-end",
+    "front-end",
+    "deployment",
+    "reference",
+  ]

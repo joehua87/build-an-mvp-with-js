@@ -1,0 +1,11 @@
+{
+  "name": "build-an-mvp-with-js",
+  "version": "0.1.0",
+  "main": "build.js",
+  "repository": "https://github.com/joehua87/build-an-mvp-with-js.git",
+  "author": "joehua87 <joehua87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
